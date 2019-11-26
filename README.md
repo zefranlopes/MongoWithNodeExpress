@@ -1,7 +1,7 @@
 # MongoWithNodeExpress
 MongoDB with Nodejs Express
 
-1) Utilizando MongoDB como banco de dados NoSQL
-2) Utilizando Nodejs Express como servidor Rest/Json
+1) Using MongoDB as NoSQL Database
+2) Using Nodejs Express as Rest / Json Server
 
-Modelo de API com banco de dados NoSQL para ser utilizando em múltiplos "databases"
+API model with NoSQL database to be used in multiple "databases"
